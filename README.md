@@ -26,7 +26,7 @@ This dashboard turns superstore transaction data into a clear sales story: how m
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](salese dashboard.png)
 
 ---
 
